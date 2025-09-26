@@ -13,14 +13,14 @@ I specialize in **Business Intelligence, Data Analytics, and Machine Learning**,
 <tr>
 <td>
 
-## 🌐 Socials:
+## 🌐Socials:
 <a href="https://www.linkedin.com/in/dilaraislam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 <a href="https://github.com/DilaraIslam"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>  
 
 </td>
 <td>
 
-## 💼 Skills:
+## 💼Skills:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">  
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">  
