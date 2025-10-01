@@ -6,9 +6,15 @@
 <div align="center">
 
 # 👋 👩‍💻 💡 I'm <span style="color:#FFD700; font-weight:bold;">Dilara</span> 
+
+ <p align="center">
+  <span style="font-family: 'EB Garamond', serif; font-size:15px; color:red;">
+    <b><i>Turning data into insights, and insights into action</i></b>
+  </span>
+</p>
+
 </div>
 I am passionate about uncovering business problems, transforming complex data into clear, actionable insights, building impactful dashboards, and driving data-informed decisions. Skilled in Power BI, data visualization, and building interactive dashboards that drive decision-making. Advocate for ethical data practices and collaborative problem-solving. I specialize in **Business Intelligence, Data Analytics, and Machine Learning**, with hands-on experience delivering reporting solutions and predictive models.
-
 
 🎓 **Master of Applied Business Analytics** @ Carleton University (Technology Innovation Management).  
  
@@ -24,10 +30,4 @@ I am passionate about uncovering business problems, transforming complex data in
 ## 💼Skills:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">  
 
-
- <p align="center">
-  <span style="font-family: 'EB Garamond', serif; font-size:15px; color:red;">
-    <b><i>“Turning data into insights, and insights into action”</i></b>
-  </span>
-</p>
 
