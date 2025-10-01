@@ -1,3 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Typing Animation</title>
+  <style>
+    body {
+      background: #0d1117; /* dark background */
+      color: white;
+      font-family: monospace;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .typing {
+      display: inline-block;
+      border-right: 3px solid #fff; /* cursor */
+      font-size: 2rem;
+      white-space: nowrap;
+      overflow: hidden;
+      animation: typing 4s steps(20, end), blink 0.7s step-end infinite;
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 14ch } /* number of characters */
+    }
+
+    @keyframes blink {
+      50% { border-color: transparent }
+    }
+
+    /* Color each letter individually */
+    .typing span:nth-child(1) { color: #ff6b6b; } /* H */
+    .typing span:nth-child(2) { color: #feca57; } /* i */
+    .typing span:nth-child(3) { color: #1dd1a1; } /* , */
+    .typing span:nth-child(4) { color: #48dbfb; } /* space */
+    .typing span:nth-child(5) { color: #5f27cd; } /* I */
+    .typing span:nth-child(6) { color: #ff9ff3; } /* ' */
+    .typing span:nth-child(7) { color: #ff6b6b; } /* m */
+    .typing span:nth-child(8) { color: #feca57; } /* space */
+    .typing span:nth-child(9) { color: #1dd1a1; } /* D */
+    .typing span:nth-child(10) { color: #48dbfb; } /* i */
+    .typing span:nth-child(11) { color: #5f27cd; } /* l */
+    .typing span:nth-child(12) { color: #ff9ff3; } /* a */
+    .typing span:nth-child(13) { color: #ff6b6b; } /* r */
+    .typing span:nth-child(14) { color: #feca57; } /* a */
+  </style>
+</head>
+<body>
+  <div class="typing">
+    <span>H</span><span>i</span><span>,</span><span> </span><span>I</span><span>'</span><span>m</span><span> </span><span>D</span><span>i</span><span>l</span><span>a</span><span>r</span><span>a</span>
+  </div>
+</body>
+</html>
+
+
+
 # 👋 Hi! I am Dilara
 
 💡 
