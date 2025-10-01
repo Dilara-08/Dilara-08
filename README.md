@@ -1,12 +1,13 @@
 
+<div align="center">
 
-# 👋 Hi! I am Dilara
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=30&pause=700&color=FFD700&center=true&vCenter=true&width=700&lines=🌟+Welcome+to+my+space;✨+Glad+to+have+you+here;🚀+Let's+explore+together)](https://git.io/typing-svg)
+</div>
+<div align="center">
 
-💡 
-I am passionate about uncovering business problems, transforming complex data into clear, actionable insights, building impactful dashboards, and driving data-informed decisions. 
-Skilled in Power BI, data visualization, and building interactive dashboards that drive decision-making. Advocate for ethical data practices and collaborative problem-solving.
-I specialize in **Business Intelligence, Data Analytics, and Machine Learning**, with hands-on experience delivering reporting solutions and predictive models.
-
+# 👋 👩‍💻 💡 I'm <span style="color:#FFD700; font-weight:bold;">Dilara</span> 
+</div>
+I am passionate about uncovering business problems, transforming complex data into clear, actionable insights, building impactful dashboards, and driving data-informed decisions. Skilled in Power BI, data visualization, and building interactive dashboards that drive decision-making. Advocate for ethical data practices and collaborative problem-solving. I specialize in **Business Intelligence, Data Analytics, and Machine Learning**, with hands-on experience delivering reporting solutions and predictive models.
 
 
 🎓 **Master of Applied Business Analytics** @ Carleton University (Technology Innovation Management).  
