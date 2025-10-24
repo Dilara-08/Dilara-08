@@ -16,7 +16,7 @@
 </div>
 I am passionate about uncovering business problems, transforming complex data into clear, actionable insights, building impactful dashboards, and driving data-informed decisions. Skilled in Power BI, data visualization, and building interactive dashboards that drive decision-making. Advocate for ethical data practices and collaborative problem-solving. I specialize in **Business Intelligence, Data Analytics, and Machine Learning**, with hands-on experience delivering reporting solutions and predictive models.
 
-🎓 **Master of Applied Business Analytics** @ Carleton University (Technology Innovation Management).  
+🎓 **Master of Applied Business Analytics** @ Carleton University (Technology Innovation Management)
  
 🌍 Let’s connect and explore how data can drive smarter decisions. 📩 islamdilarafahmida@gmail.com  
 
